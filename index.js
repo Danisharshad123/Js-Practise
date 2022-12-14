@@ -1,6 +1,7 @@
 let MyFunc = document.querySelector('button');
-MyFunc.addEventListener('click', showMsj);
+MyFunc.addEventListener('click', inputMsj);
  
-function showMsj(){
-    alert('working');
+function inputMsj(){
+   let name = prompt('Enter Name Of Students');
+   MyFunc.textContent = 'Roll no 1 :'+ name;
 }
