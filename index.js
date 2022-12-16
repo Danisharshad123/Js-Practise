@@ -7,6 +7,6 @@ function inputMsj(){
 }
 
 
-let button =>(){
+let button =(){
 
 }
