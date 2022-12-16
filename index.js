@@ -7,6 +7,4 @@ function inputMsj(){
 }
 
 
-let button =(){
 
-}
