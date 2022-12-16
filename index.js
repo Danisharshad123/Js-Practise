@@ -10,3 +10,23 @@ function inputMsj(){
 let button =>(){
 
 }
+
+let button =>(){
+
+}
+
+let button =>(){
+
+}
+
+let button =>(){
+
+}
+
+let button =>(){
+
+}
+
+let button =>(){
+
+}
